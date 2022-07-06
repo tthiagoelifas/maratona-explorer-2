@@ -9,7 +9,7 @@ a {
 }
   
 html {
-/* variaveis */
+
     --bg-color: #EDF2FF;
     --text-color: #00082F;
     --primary-color: #4263EB;
@@ -93,7 +93,7 @@ ul li a {
     transition: background 400ms;
 }
   
-/* pseuso-class */
+
 ul li a:hover{
     background: var(--primary-color-dark);
 }
