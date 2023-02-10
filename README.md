@@ -1,4 +1,16 @@
-<h1>Maratona Explorer 2</h1>
+<h1>Agregador de Links</h1>
 <h2>Meu site de Links</h2>
 
-https://tthiagoelifas.github.io/thiago-elifas-links/
+
+## 🧑‍💻Tecnologias 
+
+- HTML
+- CSS
+- Git
+- Github
+
+## Screenshots
+
+![preview](./assets/preview.png)
+
+[Link do Projeto](https://tthiagoelifas.github.io/thiago-elifas-links/)
